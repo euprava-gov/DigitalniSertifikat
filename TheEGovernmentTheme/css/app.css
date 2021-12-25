@@ -7401,7 +7401,7 @@ html .minimizable-web-chat > .chat-box > header > button.minimize {
   -webkit-animation-duration: 0.5s;
   animation-duration: 0.5s;
 }
-@-webkit-keyframes "notify-in" {
+@-webkit-keyframes notify-in {
   0% {
     margin-top: -30px;
     opacity: 0;
@@ -7411,7 +7411,7 @@ html .minimizable-web-chat > .chat-box > header > button.minimize {
     opacity: 1;
   }
 }
-@keyframes "notify-in" {
+@keyframes notify-in {
   0% {
     margin-top: -30px;
     opacity: 0;
